@@ -1,12 +1,12 @@
 
 ## ¡Hola! Soy Alvaro Chavez👋😊
 
-Desarrollador Backend especializado en **Java** con experiencia en **Spring Boot**, **Microservicios** y **arquitectura hexagonal**. Me apasiona construir soluciones robustas y escalables, aplicando principios SOLID y buenas prácticas de programación en cada proyecto. Trabajo principalmente con tecnologías modernas y disfruto de los desafíos de los proyectos legacy y la evolución de arquitecturas.
+Desarrollador Backend especializado en **Java** con experiencia en **Spring Boot**, **Microservicios** y **arquitectura hexagonal**. Interesado en construir soluciones robustas y escalables, aplicando principios SOLID y buenas prácticas de programación. Trabajo principalmente con tecnologías modernas y disfruto de los desafíos de los proyectos legacy y la evolución de arquitecturas.
 
 ---
 
 ### 🚀 Acerca de Mí
-- 📍 Ubicación: Oviedo/España
+- 📍 Ubicación: Oviedo - Madrid/España
 - 💼 Actualmente trabajo en Seresco como Backend Developer
 - 📚 Apasionado por el aprendizaje continuo, interesado en **Microservicios**, **Domain-Driven Design (DDD)** y **arquitectura hexagonal**
 - 🎯 Siempre en búsqueda de optimizar y mejorar aplicaciones, ya sea desde el rendimiento hasta la calidad del código.
