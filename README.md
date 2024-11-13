@@ -1,7 +1,7 @@
 
 ## ¡Hola! Soy Alvaro Chavez👋😊
 
-Desarrollador Backend especializado en **Java** con experiencia en **Spring Boot**, **Microservicios** y **arquitectura hexagonal**. Interesado en construir soluciones robustas y escalables, aplicando principios SOLID y buenas prácticas de programación. Trabajo principalmente con tecnologías modernas y disfruto de los desafíos de los proyectos legacy y la evolución de arquitecturas.
+Desarrollador Backend especializado en **Java** con experiencia en **Spring Boot**, **Microservicios** y **Arquitectura Hexagonal**. Interesado en construir soluciones robustas y escalables, aplicando principios SOLID y buenas prácticas de programación. Trabajo principalmente con tecnologías modernas y disfruto de los desafíos de los proyectos legacy y la evolución de arquitecturas.
 
 ---
 
